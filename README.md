@@ -4,6 +4,10 @@ A **zero-installation screen annotation bookmarklet** for Chrome. Draw, highligh
 
 **No extension. No download. No setup. No installation required.**
 
+## 🔗 Try It Now
+
+**[→ Open Live Annotate Demo](https://axiomdeploy.github.io/web-annotation-bookmarklet/)**
+
 ## ✨ Features
 
 | Feature            | Description                                          |
@@ -27,7 +31,7 @@ The toolbar is also fully draggable.
 
 ### 1. Open the installer page
 
-Open the **Annotate** installer page hosted on GitHub Pages, or open `index.html` locally.
+Visit the **[live Annotate demo](https://axiomdeploy.github.io/web-annotation-bookmarklet/)** or open `index.html` locally.
 
 ### 2. Bookmark the page
 
